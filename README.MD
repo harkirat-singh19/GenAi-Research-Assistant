@@ -235,7 +235,7 @@ If you found this project useful, consider giving it a ⭐ on GitHub.
 
 ## 👨‍💻 Author
 
-**Ronit**
+Harkirat
 
-GitHub: https://github.com/ronit-codes12
+GitHub: https://github.com/harkirat-singh19
 
